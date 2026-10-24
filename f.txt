@@ -1,2 +1,2 @@
 a=1
-b=MASTER
+b=TOPIC+MASTER
